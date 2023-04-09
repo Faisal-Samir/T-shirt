@@ -1,0 +1,24 @@
+.shirt-image{
+    width: 180px;
+    height: 170px;
+    border-radius: 15px;
+    border: 0;
+}
+.tshirt{
+    border: 1px solid green;
+    border-radius: 15px;
+    padding: 20px 10px;
+}
+.btn-buyNow{
+    width: 100%;
+    border: 0;
+    padding: 10px 0;
+    border-radius: 15px;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
+.btn-buyNow:hover{
+    background-color: rgb(48, 194, 48);
+}
